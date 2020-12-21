@@ -205,12 +205,21 @@
 /*********************************************************************************/
 /* Header                                                                        */
 /*********************************************************************************/
+	#header
+	{
+		width: 100%;
+		margin: 0px auto;		
+
+	}
 
 	#header-wrapper
 	{
+		width: 100%;
+		margin: 0px auto;
+
 		overflow: hidden;
 		padding: 5em 0em;
-		background: #d7ffff ;
+		background: #d7ffff;
 		/* background: #B03500 url(../images/BannerLBlue.png) repeat; */
 		/* background: #B03500 url(images/bluebg.png) repeat; */
 	}
@@ -314,6 +323,10 @@
 
 	#wrapper3
 	{
+		width: 100%;
+		margin: 0px auto;
+
+		
 		overflow: hidden;
 		padding: 8em 0em;
 		background: #FFF;
@@ -321,6 +334,9 @@
 	
 	#wrapper4
 	{
+		width: 100%;
+		margin: 0px auto;
+
 		overflow: hidden;
 		padding: 8em 0em;
 		background: #4c5b76;
@@ -337,6 +353,9 @@
 
 	#wrapper5
 	{
+		width: 100%;
+		margin: 0px auto;		
+
 		overflow: hidden;
 		padding: 8em 0em;
 		background: #d7ffff
@@ -358,6 +377,9 @@
 
 	#footer
 	{
+		width: 100%;
+		margin: 0px auto;		
+
 		text-align: center;
 	}
 
@@ -373,6 +395,9 @@
 
 #contactos
 {
+	width: 100%;
+	margin: 0px auto;		
+
 	text-align: center;
 }
 
@@ -390,6 +415,9 @@
 
 	#copyright
 	{
+		width: 100%;
+		margin: 0px auto;		
+
 		overflow: hidden;
 		padding: 5em 0em;
 		border-top: 1px solid rgba(255,255,255,0.08);
@@ -417,6 +445,14 @@
 /* Portfolio                                                                     */
 /*********************************************************************************/
 
+	#portfolio
+	 {
+		width: 100%;
+		margin: 0px auto;		
+
+	 }
+
+
 
 	#portfolio .box
 	{
@@ -435,12 +471,23 @@
 
 	#portfolio .title
 	{
+		width: 100%;
+		margin: 0px auto;
+		
 		text-align: center;
 	}
 
 	#portfolio .title h2
 	{
+		width: 100%;
+		margin: 0px auto;
+		
 		color: rgba(0,0,0,0.8);
+	}
+	#portfolio .title span
+	{
+		width: 100%;
+		margin: 0px auto;
 	}
 
 	.column1,
