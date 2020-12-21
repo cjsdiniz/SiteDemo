@@ -210,7 +210,8 @@
 	{
 		overflow: hidden;
 		padding: 5em 0em;
-		background: #B03500 url(images/BannerLBlue.png) repeat;
+		background: #d7ffff ;
+		/* background: #B03500 url(../images/BannerLBlue.png) repeat; */
 		/* background: #B03500 url(images/bluebg.png) repeat; */
 	}
 	
